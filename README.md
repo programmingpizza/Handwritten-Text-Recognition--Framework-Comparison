@@ -4,14 +4,14 @@ The project focuses on comparison of different frameworks for Handwritten text r
 
 ## Getting Started
 
-Download the dataset from https://archive.ics.uci.edu/ml/datasets/optical+recognition+of+handwritten+digits
+We are working with MNIST dataset.  
 Install all the required librabries
 
 ### Prerequisites
 Scikit Learn
 TensorFlow
 Pytorch
-Amazon Gluon
+Apache MXNET with Amazon Gluon 
 
 ## Built With
 Python 3.6

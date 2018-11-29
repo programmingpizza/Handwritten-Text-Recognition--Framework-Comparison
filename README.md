@@ -14,11 +14,11 @@ Pytorch
 Apache MXNET with Amazon Gluon 
 
 ## Built With
-Python 3.6
-Sklearn 0.20.0
-Tensorflow 1.12
-Pytorch 0.41
-Gluon 
+*Python 3.6
+*Sklearn 0.20.0
+*Tensorflow 1.12
+*Pytorch 0.41
+*Mxnet with Gluon 
 
 ## Contributing
 

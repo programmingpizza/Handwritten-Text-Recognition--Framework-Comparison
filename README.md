@@ -8,17 +8,17 @@ We are working with MNIST dataset.
 Install all the required librabries
 
 ### Prerequisites
-Scikit Learn
-TensorFlow
-Pytorch
-Apache MXNET with Amazon Gluon 
+* Scikit Learn
+* TensorFlow
+* Pytorch
+* Apache MXNET with Amazon Gluon 
 
 ## Built With
-*Python 3.6
-*Sklearn 0.20.0
-*Tensorflow 1.12
-*Pytorch 0.41
-*Mxnet with Gluon 
+* Python 3.6
+* Sklearn 0.20.0
+* Tensorflow 1.12
+* Pytorch 0.41
+* Mxnet with Gluon 
 
 ## Contributing
 
